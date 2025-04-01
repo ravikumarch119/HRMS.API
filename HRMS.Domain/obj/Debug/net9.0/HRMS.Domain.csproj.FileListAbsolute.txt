@@ -1,0 +1,23 @@
+C:\Users\ravik\source\repos\HRMS.API\HRMS.Domain\bin\Debug\net9.0\HRMS.Domain.deps.json
+C:\Users\ravik\source\repos\HRMS.API\HRMS.Domain\bin\Debug\net9.0\HRMS.Domain.dll
+C:\Users\ravik\source\repos\HRMS.API\HRMS.Domain\bin\Debug\net9.0\HRMS.Domain.pdb
+C:\Users\ravik\source\repos\HRMS.API\HRMS.Domain\obj\Debug\net9.0\HRMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravik\source\repos\HRMS.API\HRMS.Domain\obj\Debug\net9.0\HRMS.Domain.AssemblyInfoInputs.cache
+C:\Users\ravik\source\repos\HRMS.API\HRMS.Domain\obj\Debug\net9.0\HRMS.Domain.AssemblyInfo.cs
+C:\Users\ravik\source\repos\HRMS.API\HRMS.Domain\obj\Debug\net9.0\HRMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ravik\source\repos\HRMS.API\HRMS.Domain\obj\Debug\net9.0\HRMS.Domain.dll
+C:\Users\ravik\source\repos\HRMS.API\HRMS.Domain\obj\Debug\net9.0\refint\HRMS.Domain.dll
+C:\Users\ravik\source\repos\HRMS.API\HRMS.Domain\obj\Debug\net9.0\HRMS.Domain.pdb
+C:\Users\ravik\source\repos\HRMS.API\HRMS.Domain\obj\Debug\net9.0\ref\HRMS.Domain.dll
+C:\Users\ravik\source\New folder\HRMS.API\HRMS.Domain\bin\Debug\net9.0\HRMS.Domain.deps.json
+C:\Users\ravik\source\New folder\HRMS.API\HRMS.Domain\bin\Debug\net9.0\HRMS.Domain.dll
+C:\Users\ravik\source\New folder\HRMS.API\HRMS.Domain\bin\Debug\net9.0\HRMS.Domain.pdb
+C:\Users\ravik\source\New folder\HRMS.API\HRMS.Domain\obj\Debug\net9.0\HRMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ravik\source\New folder\HRMS.API\HRMS.Domain\obj\Debug\net9.0\HRMS.Domain.AssemblyInfoInputs.cache
+C:\Users\ravik\source\New folder\HRMS.API\HRMS.Domain\obj\Debug\net9.0\HRMS.Domain.AssemblyInfo.cs
+C:\Users\ravik\source\New folder\HRMS.API\HRMS.Domain\obj\Debug\net9.0\HRMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ravik\source\New folder\HRMS.API\HRMS.Domain\obj\Debug\net9.0\HRMS.Domain.sourcelink.json
+C:\Users\ravik\source\New folder\HRMS.API\HRMS.Domain\obj\Debug\net9.0\HRMS.Domain.dll
+C:\Users\ravik\source\New folder\HRMS.API\HRMS.Domain\obj\Debug\net9.0\refint\HRMS.Domain.dll
+C:\Users\ravik\source\New folder\HRMS.API\HRMS.Domain\obj\Debug\net9.0\HRMS.Domain.pdb
+C:\Users\ravik\source\New folder\HRMS.API\HRMS.Domain\obj\Debug\net9.0\ref\HRMS.Domain.dll
